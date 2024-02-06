@@ -1,6 +1,6 @@
-# Telegram Bot Typescript
+# Telegram Bot TypeScript
 
-<p>Build with grammy library
+<p>Build with <a href="https://grammy.dev/">grammy</a> library
   
 <code>npm install</code> : install the dependencies
 
