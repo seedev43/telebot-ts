@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "grammy": "^1.20.3",
+    "moment-timezone": "^0.5.45"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^20.11.16",
+    "dotenv": "^16.4.1"
+  }
+}
